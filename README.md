@@ -21,3 +21,7 @@ For this project, we will be using the following libraries:
 - `sklearn` for machine learning and machine-learning-pipeline related functions.
 - `seaborn` for visualizing the data.
 - `matplotlib` for additional plotting tools.
+
+### Analysis Performed
+
+- Please find the notebook [here](https://github.com/nadirquamer/Medical_Insurance_Cost_Analysis/blob/main/Medical%20Insurance%20Cost%20Analysis.ipynb)
